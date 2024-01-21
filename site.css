@@ -1,0 +1,27 @@
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Playfair Display', serif;
+}
+
+h1,h2,h3,h4 {
+    font-family: "Sofia", sans-serif;
+    background-color: #ffdbf2;
+    color: #9c0364;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+
+a:link {
+    color: hotpink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: deeppink;
+}
+
+a:visited {
+    color: mediumpurple;
+}
