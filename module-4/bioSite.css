@@ -1,0 +1,25 @@
+#banner {
+    background-color: #F5D3DD;
+    padding: 2px;
+}
+h2 {
+    text-align: center;
+    color: #E42278;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+
+h3 {
+    color: #ED7BAB;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+body {
+    background-color: #F9F9F9;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+
+p {
+    color: #0D111A;
+}
